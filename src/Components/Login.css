@@ -1,18 +1,13 @@
-/* *{
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  font-family: "Poppins", sans-serif;
-} */
+/* 
 .hmarabody{
   display: flex;
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: url("eg.jpg") no-repeat;
+  background: url(eg.jpg) no-repeat;
   background-size: cover;
   background-position: center;
-} */
+} 
 .wrapper{
   width: 420px;
   background: transparent;
@@ -108,4 +103,4 @@
   margin-top: 10px;
   margin-bottom: 10px;
   border-radius: 10px;
-}
+}   */

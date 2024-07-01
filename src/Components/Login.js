@@ -39,7 +39,7 @@ const Login =() => {
   }
 
   return (<>
-  <div className='hmarabody'>
+  <div className='mybody'>
     <div className="wrapper">
       <form  onSubmit={submitHandler} action="">
         <h1>Login</h1>
